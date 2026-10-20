@@ -1,0 +1,9 @@
+segmentador,entrada,grupo,n,macro_f1_pixel,macro_f1_segmento,exactitud_pixel,exactitud_segmento
+felz_1ha,s2_multitemporal,borde,208,0.431,0.421,0.481,0.433
+felz_1ha,s2_multitemporal,interior,512,0.626,0.578,0.717,0.676
+felz_1ha,alphaearth,borde,208,0.477,0.486,0.514,0.51
+felz_1ha,alphaearth,interior,512,0.621,0.632,0.729,0.729
+felz_1ha,s2_mas_alphaearth,borde,208,0.453,0.472,0.5,0.51
+felz_1ha,s2_mas_alphaearth,interior,512,0.626,0.656,0.729,0.736
+felz_1ha,pixel_mas_segmento,borde,208,0.453,0.439,0.5,0.49
+felz_1ha,pixel_mas_segmento,interior,512,0.626,0.63,0.729,0.729

@@ -1,0 +1,4 @@
+contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+alphaearth − s2_multitemporal,0.026,0.2045,84,68,0.2236
+s2_mas_alphaearth − s2_multitemporal,0.032,0.126,62,42,0.0619
+s2_mas_alphaearth − alphaearth,0.006,0.5545,37,33,0.7202

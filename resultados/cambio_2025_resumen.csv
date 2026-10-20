@@ -1,0 +1,5 @@
+unidad,area_dominio_ha,area_cambio_ha,fraccion_cambio,componentes,componentes_le4px,fraccion_area_cambio_en_le4px,tamano_mediano_px,n,prevalencia_cambio_ref,exactitud,f1_cambio,f1_sin_cambio,predicho_cambio,acuerdo_en_cambio_de_clase
+pixel,204317.0,30986.0,0.1517,115239.0,87281.0,0.0445,2.0,,,,,,,
+objeto_felz_1ha,204317.0,26609.0,0.1302,7926.0,4115.0,0.002,3.0,,,,,,,
+pixel,,,,,,,,591.0,0.34,0.665,0.353,0.774,105.0,0.426
+objeto,,,,,,,,591.0,0.34,0.673,0.367,0.78,104.0,0.268

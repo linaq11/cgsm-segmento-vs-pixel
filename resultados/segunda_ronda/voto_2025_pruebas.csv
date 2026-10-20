@@ -1,0 +1,10 @@
+segmentador,entrada,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+sam,s2_mas_alphaearth,voto por mayoria − pixel,-0.171,0.0,39,166,0.0
+sam_fino,s2_mas_alphaearth,voto por mayoria − pixel,-0.09,0.0,50,121,0.0
+slic,s2_mas_alphaearth,voto por mayoria − pixel,-0.166,0.0,39,182,0.0
+slic_fino,s2_mas_alphaearth,voto por mayoria − pixel,-0.033,0.0125,33,62,0.0038
+slic_16ha,s2_mas_alphaearth,voto por mayoria − pixel,-0.091,0.0,36,121,0.0
+slic_4ha,s2_mas_alphaearth,voto por mayoria − pixel,-0.073,0.0,33,94,0.0
+slic_025ha,s2_mas_alphaearth,voto por mayoria − pixel,-0.001,0.952,33,40,0.4828
+felz_025ha,s2_mas_alphaearth,voto por mayoria − pixel,0.01,0.259,28,22,0.4799
+felz_1ha,s2_mas_alphaearth,voto por mayoria − pixel,-0.009,0.5165,36,42,0.5716

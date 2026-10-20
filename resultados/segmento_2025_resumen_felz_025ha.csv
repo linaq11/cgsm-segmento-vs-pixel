@@ -1,0 +1,6 @@
+segmentador,brazo,unidad,n_vars,macro_f1_oof,min_pliegue,max_pliegue,exactitud
+felz_025ha,s2_multitemporal,segmento,30,0.573,0.472,0.597,0.639
+felz_025ha,alphaearth,segmento,64,0.61,0.523,0.638,0.675
+felz_025ha,s2_mas_alphaearth,segmento,94,0.604,0.484,0.611,0.671
+felz_025ha,s2_mas_alphaearth_mas_sd,segmento,164,0.602,0.463,0.63,0.676
+felz_025ha,pixel_mas_segmento,pixel + segmento,258,0.597,0.435,0.626,0.667

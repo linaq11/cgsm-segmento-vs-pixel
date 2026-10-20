@@ -1,0 +1,3 @@
+brazo,entrada,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+knn_alphaearth,alphaearth 2025 (64),knn_alphaearth − pixel union,-0.012,0.608,49,52,0.8424
+propagacion_alphaearth,alphaearth 2025 (64),propagacion_alphaearth − pixel union,-0.051,0.084,68,98,0.0241

@@ -1,0 +1,2 @@
+prompt,umbral,n,prevalencia_manglar,f1_texto,precision_texto,recall_texto,f1_pixel_manglar,precision_pixel,recall_pixel,area_texto_ha,jaccard_corredor_INVEMAR_25k,recuperado_INVEMAR_25k,jaccard_corredor_GMW_2020,recuperado_GMW_2020,area_fuera_corredor_ha
+mangrove,0.24,720,0.364,0.576,0.408,0.981,1.0,1.0,1.0,188575,0.269,0.984,0.348,0.981,72441

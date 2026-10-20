@@ -1,0 +1,11 @@
+brazo,grupo,n,macro_f1_pixel,macro_f1_brazo
+s1_solo,borde,208,0.46,0.325
+s1_solo,interior,612,0.618,0.456
+s2_mas_alphaearth_mas_s1,borde,208,0.46,0.456
+s2_mas_alphaearth_mas_s1,interior,612,0.618,0.628
+pixel_mas_slic025,borde,208,0.46,0.486
+pixel_mas_slic025,interior,612,0.618,0.63
+pixel_mas_slic025_mas_s1,borde,208,0.46,0.498
+pixel_mas_slic025_mas_s1,interior,612,0.618,0.635
+pixel_mas_felz025_mas_s1,borde,208,0.46,0.468
+pixel_mas_felz025_mas_s1,interior,612,0.618,0.617

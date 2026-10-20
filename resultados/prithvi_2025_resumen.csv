@@ -1,0 +1,4 @@
+brazo,n_vars,macro_f1_oof,min_pliegue,max_pliegue,exactitud,f1_agua,f1_humedal_herbaceo,f1_manglar_degradado,f1_manglar_intacto,f1_otro,f1_vegetacion_flotante
+prithvi_centro,1024,0.407,0.342,0.446,0.558,0.735,0.072,0.484,0.676,0.118,0.359
+prithvi_contexto,1024,0.44,0.324,0.448,0.504,0.641,0.185,0.461,0.481,0.373,0.498
+s2_mas_prithvi_centro,1054,0.467,0.386,0.527,0.633,0.802,0.025,0.527,0.758,0.151,0.537

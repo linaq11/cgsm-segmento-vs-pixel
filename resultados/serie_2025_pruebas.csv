@@ -1,0 +1,5 @@
+brazo,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+serie_cruda_rf,serie_cruda_rf − pixel espectral,-0.01,0.544,50,46,0.7596
+serie_cruda_rf,serie_cruda_rf − pixel union,-0.021,0.3225,38,44,0.5811
+serie_cnn1d,serie_cnn1d − pixel espectral,-0.028,0.3175,52,80,0.0184
+serie_cnn1d,serie_cnn1d − pixel union,-0.039,0.069,41,79,0.0007

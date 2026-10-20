@@ -1,0 +1,5 @@
+segmentador,entrada,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+slic_fino,s2_multitemporal,segmento − pixel,-0.036,0.1635,67,104,0.0057
+slic_fino,alphaearth,segmento − pixel,0.005,0.618,54,56,0.9241
+slic_fino,s2_mas_alphaearth,segmento − pixel,-0.002,0.916,55,59,0.7789
+slic_fino,pixel_mas_segmento,pixel+segmento − pixel,0.006,0.6505,31,26,0.5966

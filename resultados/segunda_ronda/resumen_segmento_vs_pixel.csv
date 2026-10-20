@@ -1,0 +1,46 @@
+segmentador,entrada,contraste,macro_f1_pixel,macro_f1_brazo,dif,p_permutacion,p_mcnemar,primario,p_holm,significativo_holm
+slic_fino,s2_mas_alphaearth,segmento − pixel,0.587,0.586,-0.002,0.916,0.7789,True,1.0,False
+felz_025ha,alphaearth,segmento − pixel,0.582,0.595,0.013,0.3105,0.248,False,1.0,False
+felz_025ha,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.591,0.003,0.7605,0.7948,False,1.0,False
+felz_025ha,s2_mas_alphaearth,segmento − pixel,0.587,0.597,0.01,0.471,0.403,False,1.0,False
+felz_025ha,s2_multitemporal,segmento − pixel,0.555,0.56,0.005,0.7535,0.857,False,1.0,False
+felz_025ha,voto_mayoria_union,voto por mayoria − pixel,0.587,0.597,0.01,0.259,0.4799,False,1.0,False
+felz_1ha,alphaearth,segmento − pixel,0.582,0.606,0.024,0.1885,0.0854,False,1.0,False
+felz_1ha,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.586,-0.002,0.9135,1.0,False,1.0,False
+felz_1ha,s2_mas_alphaearth,segmento − pixel,0.587,0.599,0.012,0.451,0.3245,False,1.0,False
+felz_1ha,s2_multitemporal,segmento − pixel,0.555,0.536,-0.02,0.1865,0.1124,False,1.0,False
+felz_1ha,voto_mayoria_union,voto por mayoria − pixel,0.587,0.579,-0.009,0.5165,0.5716,False,1.0,False
+sam,alphaearth,segmento − pixel,0.582,0.386,-0.195,0.0,0.0,False,0.0,True
+sam,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.588,0.001,0.9685,0.8151,False,1.0,False
+sam,s2_mas_alphaearth,segmento − pixel,0.587,0.378,-0.21,0.0,0.0,False,0.0,True
+sam,s2_multitemporal,segmento − pixel,0.555,0.356,-0.199,0.0,0.0,False,0.0,True
+sam,voto_mayoria_union,voto por mayoria − pixel,0.587,0.417,-0.171,0.0,0.0,False,0.0,True
+sam_fino,alphaearth,segmento − pixel,0.582,0.453,-0.129,0.0,0.0,False,0.0,True
+sam_fino,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.596,0.009,0.623,0.2351,False,1.0,False
+sam_fino,s2_mas_alphaearth,segmento − pixel,0.587,0.444,-0.143,0.0005,0.0,False,0.017,True
+sam_fino,s2_multitemporal,segmento − pixel,0.555,0.423,-0.133,0.0,0.0,False,0.0,True
+sam_fino,voto_mayoria_union,voto por mayoria − pixel,0.587,0.497,-0.09,0.0,0.0,False,0.0,True
+slic,alphaearth,segmento − pixel,0.582,0.433,-0.149,0.0,0.0,False,0.0,True
+slic,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.587,-0.001,0.9375,0.694,False,1.0,False
+slic,s2_mas_alphaearth,segmento − pixel,0.587,0.436,-0.152,0.0015,0.0,False,0.0495,True
+slic,s2_multitemporal,segmento − pixel,0.555,0.418,-0.137,0.0045,0.0,False,0.13049999999999998,False
+slic,voto_mayoria_union,voto por mayoria − pixel,0.587,0.422,-0.166,0.0,0.0,False,0.0,True
+slic_025ha,alphaearth,segmento − pixel,0.582,0.583,0.001,0.9215,0.5104,False,1.0,False
+slic_025ha,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.613,0.026,0.055,0.0357,False,1.0,False
+slic_025ha,s2_mas_alphaearth,segmento − pixel,0.587,0.592,0.004,0.7595,0.6101,False,1.0,False
+slic_025ha,s2_multitemporal,segmento − pixel,0.555,0.54,-0.015,0.349,0.132,False,1.0,False
+slic_025ha,voto_mayoria_union,voto por mayoria − pixel,0.587,0.587,-0.001,0.952,0.4828,False,1.0,False
+slic_16ha,alphaearth,segmento − pixel,0.582,0.525,-0.057,0.0205,0.0,False,0.5535,False
+slic_16ha,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.589,0.002,0.8765,0.5831,False,1.0,False
+slic_16ha,s2_mas_alphaearth,segmento − pixel,0.587,0.508,-0.079,0.003,0.0,False,0.09,False
+slic_16ha,s2_multitemporal,segmento − pixel,0.555,0.46,-0.096,0.0015,0.0,False,0.0495,True
+slic_16ha,voto_mayoria_union,voto por mayoria − pixel,0.587,0.496,-0.091,0.0,0.0,False,0.0,True
+slic_4ha,alphaearth,segmento − pixel,0.582,0.553,-0.028,0.138,0.0692,False,1.0,False
+slic_4ha,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.595,0.008,0.612,0.3135,False,1.0,False
+slic_4ha,s2_mas_alphaearth,segmento − pixel,0.587,0.549,-0.038,0.0605,0.0117,False,1.0,False
+slic_4ha,s2_multitemporal,segmento − pixel,0.555,0.458,-0.098,0.0025,0.0,False,0.0775,False
+slic_4ha,voto_mayoria_union,voto por mayoria − pixel,0.587,0.514,-0.073,0.0,0.0,False,0.0,True
+slic_fino,alphaearth,segmento − pixel,0.582,0.586,0.005,0.618,0.9241,False,1.0,False
+slic_fino,pixel_mas_segmento,pixel+segmento − pixel,0.587,0.593,0.006,0.6505,0.5966,False,1.0,False
+slic_fino,s2_multitemporal,segmento − pixel,0.555,0.519,-0.036,0.1635,0.0057,False,1.0,False
+slic_fino,voto_mayoria_union,voto por mayoria − pixel,0.587,0.554,-0.033,0.0125,0.0038,False,0.35000000000000003,False

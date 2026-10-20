@@ -1,0 +1,5 @@
+TESSERA 2025 en los 720 puntos: NO DISPONIBLE el 2026-10-18.
+geotessera 0.9.0, registro v1 variante vultr: el manifiesto lista 45 teselas de 2024 y 45 de 2025 sobre la caja del AOI
+(-74,85 a -74,25; 10,55 a 11,15), pero la descarga de cualquiera de ellas (p. ej. -74,65, 10,85) responde NoSuchKey:
+los objetos no existen en el servidor. La version v1.1 no tiene filas en el manifiesto. Se declara en el informe como
+entrada no disponible (como en el Informe 1, donde 2021 cubria 305 de 600 puntos) y se reintenta antes de cerrar.

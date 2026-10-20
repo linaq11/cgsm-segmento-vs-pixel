@@ -1,0 +1,17 @@
+de,a,area_pixel_ha,area_objeto_ha
+agua,agua,79065,81099
+agua,humedal_herbaceo,8318,7672
+agua,manglar,932,930
+agua,otro,328,263
+humedal_herbaceo,agua,1024,1096
+humedal_herbaceo,humedal_herbaceo,20232,19620
+humedal_herbaceo,manglar,6008,4317
+humedal_herbaceo,otro,4712,4093
+manglar,agua,46,29
+manglar,humedal_herbaceo,1149,769
+manglar,manglar,36522,38630
+manglar,otro,1018,755
+otro,agua,109,74
+otro,humedal_herbaceo,6392,5734
+otro,manglar,952,877
+otro,otro,37511,38357

@@ -1,0 +1,9 @@
+segmentador,entrada,grupo,n,macro_f1_pixel,macro_f1_segmento,exactitud_pixel,exactitud_segmento
+sam,s2_multitemporal,borde,208,0.43,0.242,0.471,0.298
+sam,s2_multitemporal,interior,612,0.587,0.385,0.655,0.444
+sam,alphaearth,borde,208,0.484,0.291,0.514,0.356
+sam,alphaearth,interior,612,0.601,0.406,0.667,0.472
+sam,s2_mas_alphaearth,borde,208,0.46,0.289,0.5,0.351
+sam,s2_mas_alphaearth,interior,612,0.618,0.394,0.678,0.462
+sam,pixel_mas_segmento,borde,208,0.46,0.471,0.5,0.51
+sam,pixel_mas_segmento,interior,612,0.618,0.617,0.678,0.68

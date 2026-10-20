@@ -1,0 +1,4 @@
+entrada,n_eval,macro_f1_2021_a_2025,exactitud_2021_a_2025,macro_f1_2025_cv,exactitud_2025_cv,degradacion,degradacion_pct
+s2_multitemporal,591,0.56,0.626,0.61,0.692,-0.05,-8.1
+alphaearth,591,0.598,0.658,0.627,0.729,-0.029,-4.6
+s2_mas_alphaearth,591,0.587,0.64,0.615,0.714,-0.028,-4.6

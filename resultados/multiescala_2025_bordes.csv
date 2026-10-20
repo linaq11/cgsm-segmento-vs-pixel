@@ -1,0 +1,9 @@
+brazo,grupo,n,macro_f1_pixel,macro_f1_brazo
+pixel_mas_slic_025_1_4,borde,208,0.453,0.47
+pixel_mas_slic_025_1_4,interior,512,0.626,0.636
+pixel_mas_felz_025_1_mas_slic_4,borde,208,0.453,0.475
+pixel_mas_felz_025_1_mas_slic_4,interior,512,0.626,0.645
+pixel_mas_slic_025_1,borde,208,0.453,0.452
+pixel_mas_slic_025_1,interior,512,0.626,0.648
+pixel_mas_felz_025_1,borde,208,0.453,0.475
+pixel_mas_felz_025_1,interior,512,0.626,0.658

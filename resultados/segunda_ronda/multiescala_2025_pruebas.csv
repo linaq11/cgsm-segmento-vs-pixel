@@ -1,0 +1,5 @@
+brazo,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+pixel_mas_slic_025_1_4,pixel_mas_slic_025_1_4 − pixel union,0.016,0.1745,35,23,0.148
+pixel_mas_felz_025_1_mas_slic_4,pixel_mas_felz_025_1_mas_slic_4 − pixel union,0.011,0.464,37,26,0.2074
+pixel_mas_slic_025_1,pixel_mas_slic_025_1 − pixel union,0.012,0.2695,29,22,0.4011
+pixel_mas_felz_025_1,pixel_mas_felz_025_1 − pixel union,0.02,0.304,39,22,0.0396

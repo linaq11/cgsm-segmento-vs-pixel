@@ -1,0 +1,13 @@
+entrada,clase,n,f1_2021_a_2025,f1_2025_cv
+s2_multitemporal,agua,212,0.894,0.852
+s2_multitemporal,humedal_herbaceo,73,0.32,0.277
+s2_multitemporal,manglar,262,0.596,0.772
+s2_multitemporal,otro,44,0.431,0.538
+alphaearth,agua,212,0.922,0.878
+alphaearth,humedal_herbaceo,73,0.393,0.308
+alphaearth,manglar,262,0.618,0.814
+alphaearth,otro,44,0.459,0.506
+s2_mas_alphaearth,agua,212,0.897,0.858
+s2_mas_alphaearth,humedal_herbaceo,73,0.37,0.24
+s2_mas_alphaearth,manglar,262,0.598,0.809
+s2_mas_alphaearth,otro,44,0.483,0.553

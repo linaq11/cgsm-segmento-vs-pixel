@@ -1,0 +1,6 @@
+segmentador,brazo,unidad,n_vars,macro_f1_oof,min_pliegue,max_pliegue,exactitud
+sam,s2_multitemporal,segmento,30,0.311,0.216,0.386,0.383
+sam,alphaearth,segmento,64,0.353,0.264,0.468,0.436
+sam,s2_mas_alphaearth,segmento,94,0.372,0.264,0.416,0.438
+sam,s2_mas_alphaearth_mas_sd,segmento,164,0.341,0.251,0.445,0.424
+sam,pixel_mas_segmento,pixel + segmento,258,0.577,0.438,0.598,0.66

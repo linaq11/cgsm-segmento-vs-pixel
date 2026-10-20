@@ -1,0 +1,7 @@
+brazo,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+prithvi_centro,prithvi_centro − alphaearth,-0.188,0.0,65,143,0.0
+prithvi_centro,prithvi_centro − s2_mas_alphaearth,-0.184,0.0,64,139,0.0
+prithvi_contexto,prithvi_contexto − alphaearth,-0.155,0.0005,64,181,0.0
+prithvi_contexto,prithvi_contexto − s2_mas_alphaearth,-0.151,0.0,68,182,0.0
+s2_mas_prithvi_centro,s2_mas_prithvi_centro − alphaearth,-0.129,0.0,59,83,0.0532
+s2_mas_prithvi_centro,s2_mas_prithvi_centro − s2_mas_alphaearth,-0.124,0.0005,50,71,0.0686

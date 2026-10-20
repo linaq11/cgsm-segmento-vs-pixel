@@ -1,0 +1,3 @@
+brazo,macro_f1_oof,min_pliegue,max_pliegue,exactitud,sin_prob,f1_agua,f1_humedal_herbaceo,f1_manglar_degradado,f1_manglar_intacto,f1_otro,f1_vegetacion_flotante
+prob_objeto_felz_025ha,0.568,0.447,0.58,0.656,0,0.795,0.151,0.55,0.773,0.541,0.599
+prob_objeto_slic_025ha,0.562,0.446,0.582,0.646,0,0.763,0.176,0.56,0.751,0.514,0.605

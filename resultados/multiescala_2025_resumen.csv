@@ -1,0 +1,5 @@
+brazo,n_vars,macro_f1_oof,min_pliegue,max_pliegue,exactitud,f1_agua,f1_humedal_herbaceo,f1_manglar_degradado,f1_manglar_intacto,f1_otro,f1_vegetacion_flotante
+pixel_mas_slic_025_1_4,376,0.604,0.477,0.655,0.669,0.805,0.257,0.556,0.814,0.575,0.616
+pixel_mas_felz_025_1_mas_slic_4,376,0.61,0.466,0.648,0.679,0.797,0.25,0.591,0.8,0.561,0.659
+pixel_mas_slic_025_1,282,0.603,0.456,0.624,0.668,0.802,0.261,0.567,0.79,0.575,0.622
+pixel_mas_felz_025_1,282,0.617,0.439,0.649,0.676,0.796,0.29,0.587,0.79,0.608,0.628

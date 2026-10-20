@@ -1,0 +1,4 @@
+brazo,n_vars,macro_f1_oof,min_pliegue,max_pliegue,exactitud
+s2_multitemporal,30,0.555,0.429,0.56,0.609
+alphaearth,64,0.582,0.498,0.618,0.628
+s2_mas_alphaearth,94,0.587,0.425,0.637,0.633

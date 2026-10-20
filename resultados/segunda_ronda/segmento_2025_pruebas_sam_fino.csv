@@ -1,0 +1,5 @@
+segmentador,entrada,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+sam_fino,s2_multitemporal,segmento − pixel,-0.133,0.0,76,184,0.0
+sam_fino,alphaearth,segmento − pixel,-0.129,0.0,69,160,0.0
+sam_fino,s2_mas_alphaearth,segmento − pixel,-0.143,0.0005,62,167,0.0
+sam_fino,pixel_mas_segmento,pixel+segmento − pixel,0.009,0.623,41,30,0.2351

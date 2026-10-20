@@ -1,0 +1,15 @@
+segmentador,grupo,n,macro_f1_pixel,macro_f1_voto
+sam,borde,208,0.453,0.286
+sam,interior,512,0.626,0.475
+sam_fino,borde,208,0.453,0.395
+sam_fino,interior,512,0.626,0.543
+slic,borde,208,0.453,0.287
+slic,interior,512,0.626,0.429
+slic_fino,borde,208,0.453,0.405
+slic_fino,interior,512,0.626,0.582
+slic_16ha,borde,208,0.453,0.343
+slic_16ha,interior,512,0.626,0.514
+slic_4ha,borde,208,0.453,0.358
+slic_4ha,interior,512,0.626,0.555
+slic_025ha,borde,208,0.453,0.481
+slic_025ha,interior,512,0.626,0.622

@@ -1,0 +1,5 @@
+referencia,mapa,area_manglar_mapa_corredor_ha,area_manglar_mapa_fuera_corredor_ha,jaccard_corredor,referencia_recuperada,mediana_mapa_a_ref_m
+INVEMAR_25k,pixel,67521,14191,0.461,0.983,122.1
+GMW_2020,pixel,67521,14191,0.538,0.919,70.7
+INVEMAR_25k,filtro5,68237,14148,0.458,0.986,110.0
+GMW_2020,filtro5,68237,14148,0.539,0.927,60.8

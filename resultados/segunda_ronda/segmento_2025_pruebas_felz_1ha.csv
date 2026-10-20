@@ -1,0 +1,5 @@
+segmentador,entrada,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+felz_1ha,s2_multitemporal,segmento − pixel,-0.02,0.1865,69,90,0.1124
+felz_1ha,alphaearth,segmento − pixel,0.024,0.1885,58,40,0.0854
+felz_1ha,s2_mas_alphaearth,segmento − pixel,0.012,0.451,57,46,0.3245
+felz_1ha,pixel_mas_segmento,pixel+segmento − pixel,-0.002,0.9135,31,31,1.0

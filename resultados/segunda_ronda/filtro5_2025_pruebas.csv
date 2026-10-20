@@ -1,0 +1,3 @@
+brazo,contraste,dif_macro_f1,p_permutacion_bloques,mcnemar_b,mcnemar_c,p_mcnemar
+pixel_union_filtro5,filtro de mayoria 5x5 − pixel union (OOF sklearn),0.016,0.1375,28,17,0.1352
+pixel_union_filtro5,filtro de mayoria 5x5 − mapa por pliegue sin filtro (pareado exacto),0.006,0.3195,17,14,0.7201

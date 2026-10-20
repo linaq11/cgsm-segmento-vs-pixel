@@ -1,0 +1,9 @@
+segmentador,entrada,grupo,n,macro_f1_pixel,macro_f1_segmento,exactitud_pixel,exactitud_segmento
+slic_16ha,s2_multitemporal,borde,208,0.43,0.353,0.471,0.404
+slic_16ha,s2_multitemporal,interior,612,0.587,0.479,0.655,0.534
+slic_16ha,alphaearth,borde,208,0.484,0.422,0.514,0.462
+slic_16ha,alphaearth,interior,612,0.601,0.538,0.667,0.592
+slic_16ha,s2_mas_alphaearth,borde,208,0.46,0.412,0.5,0.457
+slic_16ha,s2_mas_alphaearth,interior,612,0.618,0.522,0.678,0.572
+slic_16ha,pixel_mas_segmento,borde,208,0.46,0.495,0.5,0.534
+slic_16ha,pixel_mas_segmento,interior,612,0.618,0.61,0.678,0.675

@@ -1,0 +1,2 @@
+brazo,epocas,macro_f1_oof,min_pliegue,max_pliegue,exactitud,f1_agua,f1_humedal_herbaceo,f1_manglar_degradado,f1_manglar_intacto,f1_otro,f1_vegetacion_flotante
+deeplabv3plus_etiquetas_corregidas,15,0.442,0.294,0.524,0.562,0.741,0.115,0.467,0.732,0.312,0.287

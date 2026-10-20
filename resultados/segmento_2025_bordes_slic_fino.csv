@@ -1,0 +1,9 @@
+segmentador,entrada,grupo,n,macro_f1_pixel,macro_f1_segmento,exactitud_pixel,exactitud_segmento
+slic_fino,s2_multitemporal,borde,208,0.431,0.359,0.481,0.413
+slic_fino,s2_multitemporal,interior,512,0.626,0.548,0.717,0.635
+slic_fino,alphaearth,borde,208,0.477,0.41,0.514,0.476
+slic_fino,alphaearth,interior,512,0.621,0.623,0.729,0.713
+slic_fino,s2_mas_alphaearth,borde,208,0.453,0.413,0.5,0.466
+slic_fino,s2_mas_alphaearth,interior,512,0.626,0.634,0.729,0.711
+slic_fino,pixel_mas_segmento,borde,208,0.453,0.459,0.5,0.505
+slic_fino,pixel_mas_segmento,interior,512,0.626,0.647,0.729,0.744

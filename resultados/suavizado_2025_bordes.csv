@@ -1,0 +1,5 @@
+brazo,grupo,n,macro_f1_pixel,macro_f1_brazo
+prob_objeto_felz_025ha,borde,208,0.453,0.447
+prob_objeto_felz_025ha,interior,512,0.626,0.597
+prob_objeto_slic_025ha,borde,208,0.453,0.46
+prob_objeto_slic_025ha,interior,512,0.626,0.591

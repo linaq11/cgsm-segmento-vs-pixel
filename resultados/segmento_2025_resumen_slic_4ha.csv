@@ -1,0 +1,6 @@
+segmentador,brazo,unidad,n_vars,macro_f1_oof,min_pliegue,max_pliegue,exactitud
+slic_4ha,s2_multitemporal,segmento,30,0.466,0.34,0.509,0.542
+slic_4ha,alphaearth,segmento,64,0.558,0.393,0.58,0.626
+slic_4ha,s2_mas_alphaearth,segmento,94,0.544,0.361,0.588,0.613
+slic_4ha,s2_mas_alphaearth_mas_sd,segmento,164,0.547,0.365,0.569,0.619
+slic_4ha,pixel_mas_segmento,pixel + segmento,258,0.594,0.441,0.635,0.671

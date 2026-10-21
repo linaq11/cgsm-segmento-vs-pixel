@@ -304,6 +304,10 @@ Los exploratorios y la extensión acotan lo demás: SAM no produce parches a 10 
 
 Para la tesis, el resultado desplaza el esfuerzo del segmentador hacia la referencia: muestra de validación probabilística con la clase otro y el sur reforzados, estimación de áreas por muestra y no por mapa, y un filtro de mayoría de 5 por 5 píxeles como tratamiento de bordes en lugar de una segmentación. Para el curso, las dos pruebas que quedaban, SAM con indicaciones y un segmentador de bordes adaptativos, se corrieron en la extensión. Queda por probar un segmentador sin costuras de tesela y una referencia de cambio independiente de WorldCover para medir la exactitud del cambio por objeto. La segunda ronda deja en marcha una tercera, de 60 puntos sorteados en la frontera entre humedal y degradado, y una decisión para la tesis: fusionar las dos clases en el mapa o mantenerlas con su frontera declarada como dependiente de la muestra.
 
+## Disponibilidad de datos y código
+
+Los scripts de las siete etapas, el plan declarado antes de las pruebas, los resultados tabulados y las figuras del informe están en el repositorio público https://github.com/linaq11/cgsm-segmento-vs-pixel, bajo licencia MIT. Los compuestos de Sentinel-2, el cubo de Sentinel-1, AlphaEarth, WorldCover, ECOSTRESS y los modelos preentrenados se obtienen de sus fuentes con los scripts de las etapas 1, 2 y 5; la muestra de referencia de 2025 y sus rondas dirigidas son un producto propio en elaboración y no se distribuyen con el informe.
+
 ## Bibliografía
 
 Achanta, R., Shaji, A., Smith, K., Lucchi, A., Fua, P. y Süsstrunk, S. (2012). SLIC superpixels compared to state-of-the-art superpixel methods. *IEEE Transactions on Pattern Analysis and Machine Intelligence, 34*(11), 2274-2282. https://doi.org/10.1109/TPAMI.2012.120

@@ -1,5 +1,7 @@
 # Segmento frente a píxel en la clasificación del manglar de la Ciénaga Grande de Santa Marta: qué aporta el contexto espacial a 10 m
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23709970.svg)](https://doi.org/10.5281/zenodo.23709970)
+
 Código, resultados tabulados y figuras de un estudio desarrollado en la Maestría en Geomática de la Universidad Nacional de Colombia (2026).
 
 **Autora:** Lina María Quintero Fonseca

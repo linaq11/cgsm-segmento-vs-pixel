@@ -8,7 +8,7 @@ Código, resultados tabulados y figuras de un estudio desarrollado en la Maestr�
 
 El estudio mide qué aporta la segmentación de imágenes a la clasificación de coberturas del manglar de la Ciénaga Grande de Santa Marta (CGSM) frente a la decisión por píxel, con los mismos puntos de referencia de 2025, el mismo Random Forest y la misma validación por bloques espaciales. Compara el Segment Anything Model (SAM) en dos configuraciones, SLIC en cinco escalas (de 139 a 0,25 ha) y Felzenszwalb a 0,25 y 1 ha, en tres entradas (30 variables espectrales de Sentinel-2, 64 dimensiones de AlphaEarth y su unión), con una familia de contrastes declarada de antemano y corregida por Holm. Añade la delimitación del manglar frente a INVEMAR 1:25.000 y Global Mangrove Watch 2020, exploratorios con DeepLabV3+, k vecinos y propagación de etiquetas sobre AlphaEarth, una extensión con trece pruebas (filtro de mayoría, bordes adaptativos, SAM con indicaciones y por texto, cambio por objeto, serie mensual, ECOSTRESS, Prithvi-EO 2.0, contexto multiescala, suavizado de probabilidades, objetos sobre el embedding y Sentinel-1) y una segunda ronda de muestra con 100 puntos dirigidos etiquetados a ciegas, sobre la que se repite la cadena completa con 820 puntos.
 
-El informe completo está en `informe/Informe2.md` (y en PDF en la misma carpeta), el plan declarado antes de correr la familia de contrastes en `informe/PLAN_informe2.md`, y las tablas de resultados con su lectura en `resultados/resultados_informe2.md`.
+El informe completo de este trabajo forma parte de la tesis de maestría en curso de la autora y se publicará con ella; este repositorio contiene el código, los resultados tabulados y las figuras que lo sustentan. El plan declarado antes de correr la familia de contrastes está en `informe/PLAN_informe2.md` y las tablas de resultados con su lectura en `resultados/resultados_informe2.md`.
 
 ## Contenido del repositorio
 
@@ -19,7 +19,7 @@ El informe completo está en `informe/Informe2.md` (y en PDF en la misma carpeta
 | `scripts/muestra_2025/` | Tres scripts de la muestra de referencia que los anteriores importan o que generan los puntos dirigidos: el módulo de validación cruzada y pruebas (`40_ablacion_entradas.py`) y el sorteo de las rondas dirigidas 2 y 3 con su herramienta de etiquetado a ciegas para Earth Engine. |
 | `resultados/` | Tablas CSV y archivos de texto generados por los scripts: resúmenes por brazo, contrastes con p de permutación y de McNemar, bordes e interior, F1 por clase, delimitación, transferencia temporal, cambio por objeto y calibración de Felzenszwalb. La subcarpeta `segunda_ronda/` contiene las mismas tablas para los 820 puntos. |
 | `figuras/` | Las nueve figuras del informe en PNG. |
-| `informe/` | Informe en Markdown y PDF, y plan declarado. |
+| `informe/` | Plan preregistrado de los contrastes. |
 | `DOCUMENTACION_scripts.md` | Cabeceras y comentarios de todos los scripts, reunidos por `generar_documentacion.py`. |
 
 No se incluyen los archivos por punto de la muestra de referencia de 2025 (coordenadas, etiquetas, variables extraídas, predicciones fuera de pliegue por punto, agregados por segmento), ni los rásteres de entrada y salida (`datos/`: compuestos de Sentinel-2, mapas de segmentos de SAM, SLIC y Felzenszwalb, mapas por píxel y por pliegue, compuestos trimestrales para Prithvi, PCA de AlphaEarth), ni los pesos de SAM ViT-H, Prithvi-EO 2.0 y Grounding DINO. Todos se regeneran o se descargan con los scripts.
@@ -34,7 +34,7 @@ No se incluyen los archivos por punto de la muestra de referencia de 2025 (coord
 | 4. Exploratorios | `08_deeplab`, `09_deeplab_corregido`, `10_propagacion_alphaearth`, `07_tessera_2025` | DeepLabV3+ con etiquetas débiles; k vecinos y propagación sobre AlphaEarth; cobertura de TESSERA (no disponible) |
 | 5. Extensión posterior al cierre | `12_filtro_mayoria`, `14_sam_puntos`, `15_cambio_objeto`, `16_texto_langsam`, `17_serie_temporal`, `18_ecostress_entrada`, `19a_compuestos_trimestrales`, `19_prithvi`, `21_contexto_multiescala`, `22_suavizado_prob` | Tabla 7 del informe (`filtro5_*`, `sam_puntos_*`, `cambio_2025_*`, `texto_2025_*`, `serie_2025_*`, `ecostress_2025_*`, `prithvi_2025_*`, `multiescala_2025_*`, `suavizado_2025_*`) |
 | 6. Segunda ronda de muestra | `muestra_2025/50_puntos_dirigidos_2026-10`, `muestra_2025/51_puntos_humedal_2026-10`, `segunda_ronda/*` | 100 puntos dirigidos y herramienta de etiquetado; tablas de los 820 puntos; Sentinel-1 (`s1_2025_*`); curva de aprendizaje (`curva_humedal_820.csv`, `fusion_humedal_degradado_820.csv`) |
-| 7. Figuras e informe | `11_figuras`, `26_fig9_segunda_ronda`, `informe_a_word` | `figuras/fig1` a `fig9`; `Informe2.docx` |
+| 7. Figuras e informe | `11_figuras`, `26_fig9_segunda_ronda`, `informe_a_word` | `figuras/fig1` a `fig9` |
 
 ## Datos externos
 
